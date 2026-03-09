@@ -28,3 +28,20 @@ source="WinEventLog:Security" EventCode=4625
 ## Tools Used
 - Splunk Enterprise
 - Windows Event Logs
+
+- ## Screenshots
+
+### Log Ingestion
+![Log Ingestion](log ingestion.png)
+
+### Successful Login Events (Event ID 4624)
+![Login Success](login success.png)
+
+### Failed Login Events (Event ID 4625)
+![Login Failure](login failure.png)
+
+### Login Activity by User
+![Stats by Account](stats by account.png)
+
+### Login Activity Over Time
+![Timechart](timechart visualization.png)
