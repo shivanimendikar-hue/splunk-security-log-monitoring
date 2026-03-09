@@ -29,6 +29,7 @@ source="WinEventLog:Security" EventCode=4625
 - Splunk Enterprise
 - Windows Event Logs
 
+## Screenshots
 
 ![Log Ingestion](log%20ingestion.png)
 
